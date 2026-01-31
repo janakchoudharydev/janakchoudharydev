@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=JANAK%20CHOUDARY&fontSize=80&fontAlignY=35&desc=FOUNDER%20OF%20ARYA%20AI%20%7C%20GRAPHIC%20DESIGNER%20%7C%20YOUTUBER&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=JANAK%20CHOUDARY&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=FOUNDER%20OF%20ARYA%20AI%20%7C%20GRAPHIC%20DESIGNER%20%7C%20YOUTUBER&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -14,13 +14,13 @@
   <a href="https://aryavoice.ai">
     <img src="https://img.shields.io/badge/Website-Visit_Arya-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/ig.gwjanak">
+  <a href="https://instagram.com/aryavoice.dev">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@Gamingwithjanak">
+  <a href="https://youtube.com/@aryavoicedev">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:contact.aryavoice.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -36,7 +36,7 @@ I am a **Graphic Designer**, **UI Developer**, and **AI Enthusiast** based in Ka
 
 * 🔭 **Working on:** Arya AI (Voice Companion) & Seamless Connect.
 * ⚡ **Core Skill:** Merging **Professional Design** (Photoshop/Illustrator) with AI Model implementation.
-* 🚀 **Secret Weapon:** Expert-level workflow in **Topaz AI** and Diffusion models.
+* 🚀 **Secret Weapon:** Expert-level workflow in **AI** and LLm models.
 * 🏆 **Highlight:** Founder of **Arya Dev** and creator of the **Rigdesk** brand.
 
 <br/>
