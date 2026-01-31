@@ -40,7 +40,7 @@ I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusias
 * 🔭 **Working on:** arya_v1.0. <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&pause=1000&color=BF40BF&vCenter=true&width=300&height=28&lines=status:+building_arya_v1.0...;" align="center" alt="Typing SVG" />
 * ⚡ **Core Skill:** Merging **Professional Design** with **AI Model** implementation.
 * 🚀 **Secret Weapon:** Expert-level workflow in **AI Automations** and **Diffusion Models**.
-* 🏆 **Highlight:** Building **Artolika.Inc** | **TheWALLX** and creator of the **ARTxPC** brand.
+* 🏆 **Highlight:** Building **Artolika.Inc** **,** **TheWALLX** and creator of the **ARTxPC** brand.
 
 <br/>
 
@@ -48,9 +48,9 @@ I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusias
 
 ### 🛠️ TECHNICAL ARSENAL
 
-| **Design & UI** | **Development** | **AI & Tools** | **Languages** |
+| **Front-End** | **Back-End** | **AI & Tools** | **Languages** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=ps,ai,figma,tailwind" width="160" /> | <img src="https://skillicons.dev/icons?i=nodejs,electron,react" width="120" /> | <img src="https://skillicons.dev/icons?i=python,github,vscode" width="120" /> | <img src="https://skillicons.dev/icons?i=py,js,cpp,c" width="160" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongo,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=github,vscode,electron" width="150" /> | <img src="https://skillicons.dev/icons?i=python,js,tscpp,c,cs" width="250" /> |
 
 ---
 
