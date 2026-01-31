@@ -58,7 +58,7 @@ I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusias
 
 | **Project** | **Tech Stack** | **Description** |
 | :--- | :--- | :--- |
-| **🖥️ One surface** | `Electron` `Node` | seamless connection of mouse & keyboard sharing, file transfer and more... (Mac ↔ Win). |
+| **🖥️  One surface** | `Electron` `Node` | seamless connect keyboard & mouse sharing, file transfer and more... (Mac ↔ Win). |
 
 ---
 
