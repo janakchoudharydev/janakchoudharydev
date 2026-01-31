@@ -4,14 +4,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&pause=1000&color=BF40BF&center=true&vCenter=true&width=500&lines=Building+Seamless+Connectivity...;Putting+Steroids+to+AI...;Founder+of+AryaVoiceDev...;Developing+Arya+AI...;Crafting+Visual+Identities...;Mastering+AI+Workflows..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&pause=1000&color=BF40BF&center=true&vCenter=true&width=500&lines=Building+Seamless+Connectivity...;Putting+Steroids+to+AI...;Founder+of+AryavoiceDev...;Developing+Arya+AI...;Crafting+Visual+Identities...;Automating+Reality...;Mastering+AI+Workflows..." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://aryavoice.ai">
+  <a href="https://aryavoice.dev">
     <img src="https://img.shields.io/badge/Website-Visit_Arya-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://instagram.com/aryavoice.dev">
@@ -22,9 +22,9 @@
   </a>
   <a href="mailto:contact.aryavoice.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
     <a href="https://www.linkedin.com/in/janakchoudary/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   </a>
 </div>
 
@@ -33,14 +33,14 @@
 ---
 
 ### 👨‍💻 ABOUT ME
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXJueXJueXJueXJueXJueXJueXJueXJueXJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4YpGg/giphy.gif" width="180" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVwMXJmd2d5ZWF1bXNuMjV6bG51dGZtcWxvd2I5Zm5zYXQ1OTgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif" width="180" />
 
-I am a **Graphic Designer**, **UI Developer**, and **AI Enthusiast** based in Karimnagar. I bridge the gap between high-end visual design and functional technology, focusing on creating seamless cross-platform experiences.
+I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusiast** and an **Graphic Designer**. I bridge the gap between high-end visual design and functional technology, focusing on creating seamless cross-platform experiences.
 
-* 🔭 **Working on:** Arya AI (Voice Companion) & Seamless Connect.
-* ⚡ **Core Skill:** Merging **Professional Design** (Photoshop/Illustrator) with AI Model implementation.
-* 🚀 **Secret Weapon:** Expert-level workflow in **AI** and LLm models.
-* 🏆 **Highlight:** Founder of **Arya Dev** and creator of the **Rigdesk** brand.
+* 🔭 **Working on:** arya_v1.0. <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&pause=1000&color=BF40BF&vCenter=true&width=300&height=28&lines=status:+building_arya_v1.0...;" align="center" alt="Typing SVG" />
+* ⚡ **Core Skill:** Merging **Professional Design** with **AI Model** implementation.
+* 🚀 **Secret Weapon:** Expert-level workflow in **AI Automations** and **Diffusion Models**.
+* 🏆 **Highlight:** Building **Artolika.Inc** | **TheWALLX** and creator of the **ARTxPC** brand.
 
 <br/>
 
