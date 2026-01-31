@@ -50,7 +50,7 @@ I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusias
 
 | **Front-End** | **Back-End** | **AI & Tools** | **Languages** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongo,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=github,vscode,electron" width="150" /> | <img src="https://skillicons.dev/icons?i=python,js,tscpp,c,cs" width="250" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongo,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=github,vscode,electron" width="150" /> | <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,cs" width="250" /> |
 
 ---
 
