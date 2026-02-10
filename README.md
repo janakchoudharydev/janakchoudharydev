@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=JANAK%20CHOUDARY&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=FOUNDER%20OF%20ARYA%20AI%20%7C%20GRAPHIC%20DESIGNER%20%7C%20YOUTUBER&descAlignY=65&descSize=20&animation=fadeIn&" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=JANAK%20CHOUDHARY&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=FOUNDER%20OF%20ARYA%20AI%20%7C%20GRAPHIC%20DESIGNER%20%7C%20YOUTUBER&descAlignY=65&descSize=20&animation=fadeIn&" width="100%" />
 </div>
 
 <div align="center">
