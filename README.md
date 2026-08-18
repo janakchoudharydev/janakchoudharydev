@@ -37,7 +37,7 @@
 
 I am the **Solo Dev**, a **Full Stack Developer**, **AI Enthusiast** and an **Digital Artist**. I bridge the gap between high-end visual design and functional technology, focusing on creating seamless cross-platform experiences.
 
-* 🔭 **Working on:** OPenRemind. <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&pause=1000&color=BF40BF&vCenter=true&width=300&height=28&lines=status:+building_openremind...;" align="center" alt="Typing SVG" />
+* 🔭 **Working on:** OpenRemind. <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&pause=1000&color=BF40BF&vCenter=true&width=300&height=28&lines=status:+building_openremind...;" align="center" alt="Typing SVG" />
 * ⚡ **Core Skill:** Merging **Professional Design** with **AI Model** implementation.
 * 🚀 **Secret Weapon:** Expert-level workflow in **AI Automations** and **Diffusion Models**.
 * 🏆 **Highlight:** Building **Artolika.Inc** **,** **TheWALLX** and creator of the **Artolika.Studio** brand.
@@ -60,7 +60,7 @@ I am the **Solo Dev**, a **Full Stack Developer**, **AI Enthusiast** and an **Di
 | :--- | :--- | :--- |
 | **🖥️  One surface** | `Electron` `Node` | seamless connect keyboard & mouse sharing, file transfer and more... (Mac ↔ Win). |
 | **⚡️ Glide** | `javascript` | Apple Music-style seamless transitions for Spotify desktop. |
-
+| **📌 OpenRemind** | `javascript` | Currently Building, Reveling Soon... |
 ---
 
 ### 🎨 THE CREATIVE SIDE
