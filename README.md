@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=JANAK%20CHOUDHARY&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=FOUNDER%20OF%20ARYA%20AI%20%7C%20GRAPHIC%20DESIGNER%20%7C%20YOUTUBER&descAlignY=65&descSize=20&animation=fadeIn&" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=260&section=header&text=JANAK%20CHOUDHARY&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=SOLO%20DEV%20%7C%20DIGITAL%20ARTIST%20%7C%20CONTENT%20CREATOR&descAlignY=65&descSize=20&animation=fadeIn&" width="100%" />
 </div>
 
 <div align="center">
@@ -11,19 +11,19 @@
 <br/>
 
 <div align="center">
-  <a href="https://aryavoice.dev">
-    <img src="https://img.shields.io/badge/Website-Visit_Arya-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://artolika.com">
+    <img src="https://img.shields.io/badge/Website-Visit_Artolika.inc-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/aryavoice.dev">
+  <a href="https://instagram.com/janakchoudary">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@aryavoicedev">
+  <a href="https://youtube.com/@janakchoudary">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="mailto:contact.aryavoice.com">
+  <a href="mailto:gwjanakcontact@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/janakchoudary/">
+    <a href="https://www.linkedin.com/in/janakchoudhary/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
