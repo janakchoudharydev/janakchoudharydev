@@ -35,12 +35,12 @@
 ### 👨‍💻 ABOUT ME
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVwMXJmd2d5ZWF1bXNuMjV6bG51dGZtcWxvd2I5Zm5zYXQ1OTgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif" width="180" />
 
-I am the **Founder of AryavoiceDev**, a **Full Stack Developer**, **AI Enthusiast** and an **Graphic Designer**. I bridge the gap between high-end visual design and functional technology, focusing on creating seamless cross-platform experiences.
+I am the **Solo Dev**, a **Full Stack Developer**, **AI Enthusiast** and an **Digital Artist**. I bridge the gap between high-end visual design and functional technology, focusing on creating seamless cross-platform experiences.
 
-* 🔭 **Working on:** arya_v1.0. <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&pause=1000&color=BF40BF&vCenter=true&width=300&height=28&lines=status:+building_arya_v1.0...;" align="center" alt="Typing SVG" />
+* 🔭 **Working on:** OPenRemind. <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=18&pause=1000&color=BF40BF&vCenter=true&width=300&height=28&lines=status:+building_openremind...;" align="center" alt="Typing SVG" />
 * ⚡ **Core Skill:** Merging **Professional Design** with **AI Model** implementation.
 * 🚀 **Secret Weapon:** Expert-level workflow in **AI Automations** and **Diffusion Models**.
-* 🏆 **Highlight:** Building **Artolika.Inc** **,** **TheWALLX** and creator of the **ARTxPC** brand.
+* 🏆 **Highlight:** Building **Artolika.Inc** **,** **TheWALLX** and creator of the **Artolika.Studio** brand.
 
 <br/>
 
